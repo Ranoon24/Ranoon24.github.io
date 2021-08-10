@@ -10,6 +10,6 @@ function initMap() {
     var marker = new google.maps.Marker({
         position: myLatLng,
         map: map,
-        title: 'South Jakarta, INA' // Title Location
+        title: 'Alexandria, Egypt' // Title Location
     });
 }
